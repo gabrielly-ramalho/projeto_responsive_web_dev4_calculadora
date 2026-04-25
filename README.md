@@ -1,8 +1,8 @@
 # projeto_responsive_web_dev4_calculadora
 4° Projeto de Responsive Web Development - Calculadora
 
-#LINK
+# LINK
 https://gabrielly-ramalho.github.io/projeto_responsive_web_dev4_calculadora/
 
-#OBJETIVO
+# OBJETIVO
 Criar uma calculadora estilizada funcional.
